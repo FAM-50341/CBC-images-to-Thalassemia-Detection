@@ -3,9 +3,6 @@ import pandas as pd
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import load_model
-import shap
-import lime
-import lime.lime_tabular
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pytesseract
